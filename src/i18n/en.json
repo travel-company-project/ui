@@ -1,0 +1,379 @@
+{
+  "appTitle": "Ride Booking Service",
+  "tagline": "Book Rides Easily",
+  "nav": {
+    "home": "Home",
+    "how": "How to Use",
+    "pricing": "Pricing",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "login": "Login",
+    "signup": "Sign Up",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "book": "Book Now",
+    "subscribe": "Subscribe"
+  },
+  "footer": {
+    "copyright": "© 2025 Ride Booking Service. All rights reserved."
+  },
+  "buttons": {
+    "bookNow": "Book Now",
+    "subscribe": "Subscribe",
+    "login": "Login",
+    "signup": "Sign Up",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "logout": "Logout",
+    "add": "Add",
+    "delete": "Delete",
+    "getStarted": "Get Started Now",
+    "downloadApp": "Download Mobile App",
+    "sendMessage": "Send Message",
+    "calculate": "Calculate Cost",
+    "startTrial": "Start Free Trial"
+  },
+  "forms": {
+    "name": "Name",
+    "fullName": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "phone": "Phone",
+    "address": "Address",
+    "message": "Message",
+    "subject": "Subject",
+    "forgotPassword": "Forgot Password?",
+    "submit": "Submit",
+    "distance": "Distance (km)",
+    "vehicleType": "Vehicle Type"
+  },
+  "home": {
+    "heroTitle": "Welcome to Ride Booking Service",
+    "heroSubtitle": "Book your ride or subscribe for monthly plans.",
+    "howTitle": "How to Use",
+    "pricingTitle": "Pricing Plans",
+    "aboutTitle": "About Us",
+    "contactTitle": "Contact Us",
+    "steps": {
+      "step1": "Sign up or log in to your account.",
+      "step2": "Choose your ride or subscription plan.",
+      "step3": "Book and enjoy your ride!"
+    },
+    "pricing": {
+      "singleRide": "Single Ride",
+      "singleRideDesc": "Pay per ride. Flexible booking for one-time trips.",
+      "monthlySubscription": "Monthly Subscription",
+      "monthlySubscriptionDesc": "Unlimited rides for a fixed monthly fee. Best value!",
+      "aboutDesc": "We are committed to making ride booking easy, affordable, and reliable for everyone. Our service connects you to safe and comfortable rides, with flexible plans to suit your needs."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your trusted partner for reliable and convenient transportation",
+    "ourStory": "Our Story",
+    "ourMission": "Our Mission",
+    "ourValues": "Our Values",
+    "ourTeam": "Our Team",
+    "ourImpact": "Our Impact",
+    "story": {
+      "title": "Our Story",
+      "paragraph1": "Founded in 2020, our ride-booking service was born from a simple idea: transportation should be accessible, reliable, and affordable for everyone. We started as a small team passionate about connecting people with safe and comfortable rides.",
+      "paragraph2": "Today, we serve thousands of customers daily, providing both single rides and monthly subscription services that cater to diverse transportation needs."
+    },
+    "mission": "To revolutionize urban transportation by providing safe, reliable, and affordable ride-booking services that connect communities and enhance the quality of life for our users.",
+    "values": {
+      "safety": {
+        "title": "Safety First",
+        "description": "We prioritize the safety and security of all our passengers and drivers."
+      },
+      "reliability": {
+        "title": "Reliability",
+        "description": "Count on us for punctual and dependable transportation services."
+      },
+      "affordability": {
+        "title": "Affordability",
+        "description": "Fair pricing that makes quality transportation accessible to all."
+      }
+    },
+    "team": {
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "CEO & Founder",
+        "description": "10+ years experience in transportation and logistics."
+      },
+      "mike": {
+        "name": "Mike Chen",
+        "role": "CTO",
+        "description": "Technology expert with passion for innovative solutions."
+      },
+      "emma": {
+        "name": "Emma Davis",
+        "role": "Head of Operations",
+        "description": "Ensuring smooth operations and excellent customer service."
+      }
+    },
+    "impact": {
+      "customers": "Happy Customers",
+      "rides": "Rides Completed",
+      "drivers": "Partner Drivers",
+      "cities": "Cities Served"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you. Get in touch with us!",
+    "getInTouch": "Get in Touch",
+    "description": "Have questions about our services? Need support? Want to partner with us? We're here to help and would love to hear from you.",
+    "officeAddress": "Office Address",
+    "phoneNumbers": "Phone Numbers",
+    "emailAddresses": "Email Addresses",
+    "businessHours": "Business Hours",
+    "followUs": "Follow Us",
+    "sendMessage": "Send us a Message",
+    "quickHelp": "Quick Help",
+    "address": "123 Transportation Street\nTech City, TC 12345\nUnited States",
+    "phones": "Customer Support: +1 (555) 123-4567\nBusiness Inquiries: +1 (555) 987-6543\nEmergency: +1 (555) 911-HELP",
+    "emails": "General: info@ridebooking.com\nSupport: support@ridebooking.com\nPartnerships: partners@ridebooking.com",
+    "hours": "Monday - Friday: 8:00 AM - 8:00 PM\nSaturday: 9:00 AM - 6:00 PM\nSunday: 10:00 AM - 4:00 PM",
+    "helpLinks": {
+      "howToBook": "How to book a ride?",
+      "subscriptionPlans": "Subscription plans explained",
+      "paymentIssues": "Payment and billing issues",
+      "safetyPolicies": "Safety and security policies"
+    }
+  },
+  "howToUse": {
+    "title": "How to Use",
+    "subtitle": "Simple steps to book your ride in minutes",
+    "gettingStarted": "Getting Started",
+    "steps": {
+      "step1": {
+        "title": "Create Your Account",
+        "description": "Sign up with your email address and create a secure password. Add your personal information and verify your account.",
+        "details": [
+          "Provide your full name and email",
+          "Create a strong password",
+          "Verify your email address",
+          "Add your phone number"
+        ]
+      },
+      "step2": {
+        "title": "Set Up Your Profile",
+        "description": "Complete your profile by adding your frequently used addresses, payment methods, and preferences.",
+        "details": [
+          "Add home and work addresses",
+          "Set up payment methods",
+          "Choose notification preferences",
+          "Upload a profile picture (optional)"
+        ]
+      },
+      "step3": {
+        "title": "Book Your Ride",
+        "description": "Use our interactive map or address search to set your pickup and destination points. Choose your preferred time and vehicle type.",
+        "details": [
+          "Set pickup location on map",
+          "Choose your destination",
+          "Select date and time",
+          "Pick vehicle type and passenger count"
+        ]
+      },
+      "step4": {
+        "title": "Confirm & Pay",
+        "description": "Review your ride details, see the estimated price, and confirm your booking. Payment is processed securely.",
+        "details": [
+          "Review trip details",
+          "See price estimation",
+          "Choose payment method",
+          "Confirm your booking"
+        ]
+      },
+      "step5": {
+        "title": "Track & Enjoy",
+        "description": "Track your driver in real-time, receive notifications, and enjoy your comfortable ride to the destination.",
+        "details": [
+          "Get driver details and vehicle info",
+          "Track driver location in real-time",
+          "Receive SMS/push notifications",
+          "Rate your experience after the ride"
+        ]
+      }
+    },
+    "subscriptionGuide": "Monthly Subscription Guide",
+    "whySubscribe": {
+      "title": "Why Choose a Subscription?",
+      "benefits": [
+        "Save up to 40% on regular rides",
+        "Priority booking and shorter wait times",
+        "Unlimited rides within plan limits",
+        "Dedicated customer support"
+      ]
+    },
+    "howToSubscribe": {
+      "title": "How to Subscribe",
+      "steps": [
+        "Choose your subscription plan",
+        "Set up automatic payments",
+        "Start booking with subscriber benefits",
+        "Manage your subscription anytime"
+      ]
+    },
+    "tips": {
+      "title": "Tips for the Best Experience",
+      "useApp": {
+        "title": "Use the App",
+        "description": "Download our mobile app for the fastest booking experience, real-time notifications, and offline access to your ride history."
+      },
+      "bookAdvance": {
+        "title": "Book in Advance",
+        "description": "Schedule your rides up to 24 hours in advance for important appointments or during peak hours to guarantee availability."
+      },
+      "savePayment": {
+        "title": "Save Payment Methods",
+        "description": "Add multiple payment methods to your account for quick checkout and backup options in case your primary method fails."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "subtitle": "Choose the perfect plan for your transportation needs",
+    "payPerRide": "Pay Per Ride",
+    "payPerRideDesc": "Perfect for occasional trips. Pay only when you ride.",
+    "monthlySubscriptions": "Monthly Subscriptions",
+    "monthlySubscriptionsDesc": "Save money with our subscription plans. Perfect for regular commuters.",
+    "vehicles": {
+      "economy": "Economy",
+      "comfort": "Comfort",
+      "luxury": "Luxury"
+    },
+    "features": {
+      "standardVehicle": "Standard vehicle",
+      "sharedRides": "Shared rides available",
+      "basicSupport": "Basic support",
+      "premiumVehicle": "Premium vehicle",
+      "privateRides": "Private rides only",
+      "prioritySupport": "Priority support",
+      "climateControl": "Climate control",
+      "luxuryVehicle": "Luxury vehicle",
+      "professionalDriver": "Professional driver",
+      "vipSupport": "VIP support",
+      "refreshments": "Refreshments",
+      "wifi": "Wi-Fi"
+    },
+    "subscriptionPlans": {
+      "basic": {
+        "name": "Basic",
+        "rides": "20 rides/month",
+        "features": [
+          "20 rides per month",
+          "Economy & Comfort vehicles",
+          "Standard support",
+          "Mobile app access",
+          "Ride history tracking"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "rides": "50 rides/month",
+        "features": [
+          "50 rides per month",
+          "All vehicle types",
+          "Priority support",
+          "Advanced booking (7 days)",
+          "Family sharing (3 members)",
+          "Ride scheduling",
+          "Cancel anytime"
+        ]
+      },
+      "unlimited": {
+        "name": "Unlimited",
+        "rides": "Unlimited rides",
+        "features": [
+          "Unlimited rides",
+          "All vehicle types including luxury",
+          "VIP support 24/7",
+          "Advanced booking (30 days)",
+          "Family sharing (5 members)",
+          "Business expense reports",
+          "Dedicated account manager",
+          "Custom pickup locations"
+        ]
+      }
+    },
+    "mostPopular": "Most Popular",
+    "bestValue": "Best Value",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "saveUpTo": "Save up to 20%",
+    "baseFare": "Base fare + distance",
+    "estimateRideCost": "Estimate Your Ride Cost",
+    "calculateCost": "Calculate Cost",
+    "planComparison": "Plan Comparison",
+    "comparison": {
+      "features": "Features",
+      "payPerRide": "Pay Per Ride",
+      "monthlyRides": "Monthly Rides",
+      "payAsYouGo": "Pay as you go",
+      "vehicleTypes": "Vehicle Types",
+      "allTypes": "All types",
+      "economyComfort": "Economy & Comfort",
+      "allIncludingLuxury": "All including luxury",
+      "advancedBooking": "Advanced Booking",
+      "sameDay": "Same day",
+      "familySharing": "Family Sharing",
+      "supportLevel": "Support Level",
+      "standard": "Standard",
+      "priority": "Priority",
+      "vip24": "VIP 24/7"
+    },
+    "faq": {
+      "title": "Pricing FAQs",
+      "q1": {
+        "question": "Can I change my subscription plan anytime?",
+        "answer": "Yes, you can upgrade or downgrade your subscription plan at any time. Changes take effect at the start of your next billing cycle."
+      },
+      "q2": {
+        "question": "What happens if I exceed my monthly ride limit?",
+        "answer": "If you exceed your plan's ride limit, additional rides will be charged at our standard pay-per-ride rates. We'll notify you when you're close to your limit."
+      },
+      "q3": {
+        "question": "Do you offer refunds?",
+        "answer": "We offer a 30-day money-back guarantee for new subscribers. For individual rides, refunds are processed case-by-case based on our refund policy."
+      },
+      "q4": {
+        "question": "Are there any hidden fees?",
+        "answer": "No hidden fees! All prices shown include taxes. The only additional charges might be for special requests like extra stops or waiting time beyond the included limit."
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Choose your plan and start enjoying convenient, reliable transportation today.",
+      "startTrial": "Start Free Trial",
+      "bookSingleRide": "Book Single Ride"
+    }
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "phoneRequired": "Phone is required",
+    "subjectRequired": "Subject is required",
+    "messageRequired": "Message is required"
+  },
+  "placeholders": {
+    "enterName": "Enter your full name",
+    "enterEmail": "Enter your email address",
+    "whatAbout": "What is this about?",
+    "tellUsMore": "Tell us more about your inquiry...",
+    "selectOriginDestination": "Select Origin & Destination"
+  },
+  "loading": "Loading...",
+  "success": {
+    "messageSent": "Thank you for your message! We will get back to you soon.",
+    "bookingConfirmed": "Your booking has been confirmed!",
+    "profileUpdated": "Profile updated successfully"
+  }
+}

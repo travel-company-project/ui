@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: theme('fontFamily.sans');
+}
+/* App-wide styles can go here. Tailwind handles most styling. */
+
+:root {
+  --color-primary: #2563eb;
+}
+
+.dark {
+  background-color: #111827;
+  color: #f3f4f6;
+}
+
+/* Smooth transitions for theme changes */
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
